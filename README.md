@@ -28,7 +28,7 @@ npm install
 3. After the installation is complete, run the following command:
 
 ```
-npm start
+npm run dev
 ```
 
 4. The project will open in your browser at the following URL:
@@ -45,10 +45,10 @@ http://localhost:3000/
 
 # Author
 
-- [SK SAHIL PARVEZ](
+SK SAHIL PARVEZ
 - [LinkedIn](https://www.linkedin.com/in/sk-sahil-parvez-89a63021b/)
 - [GitHub](https://github.com/SK-ILLish-GIT/)
 - [Portfolio-2D](https://sksportfolio2d.netlify.app/)
 - [Email](mailto:sksahilparvez2000@gmail.com)
-- [Phone](tel:+91-987-443-5806)
+- tel: +91-987-443-5806
 - [Resume](https://drive.google.com/file/d/1yieheYl_srYMJct7R2lK0C8AyJd7nOI7/view)
