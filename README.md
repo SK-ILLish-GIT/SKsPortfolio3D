@@ -2,7 +2,7 @@
 
 # About
 
-This is a 3D portfolio website made using three.js and WebGL. It is a 3D model of a room with a table and a laptop on it. The laptop screen is a website that contains my portfolio. The website is hosted on GitHub Pages. The link to the website is:
+This is a 3D portfolio website made using three.js and WebGL. It is a 3D model of a room with a table and a laptop on it. The laptop screen is a website that contains my portfolio. The website is hosted on GitHub Pages. The link to the website is: https://sksportfolio3d.netlify.app/
 
 # Technologies Used
 
@@ -49,6 +49,7 @@ SK SAHIL PARVEZ
 - [LinkedIn](https://www.linkedin.com/in/sk-sahil-parvez-89a63021b/)
 - [GitHub](https://github.com/SK-ILLish-GIT/)
 - [Portfolio-2D](https://sksportfolio2d.netlify.app/)
+- [Portfolio-3D](https://sksportfolio3d.netlify.app/)
 - [Email](mailto:sksahilparvez2000@gmail.com)
 - tel: +91-987-443-5806
 - [Resume](https://drive.google.com/file/d/1yieheYl_srYMJct7R2lK0C8AyJd7nOI7/view)
