@@ -4,11 +4,13 @@ import { Canvas } from '@react-three/fiber'
 import Experience from './Experience.js'
 import { Loader } from '@react-three/drei'
 import { Suspense } from 'react'
+import Cursor from './components/Cursor.js'
 
 const root = ReactDOM.createRoot(document.querySelector('#root'))
 
 root.render(
     <>
+        <Cursor/>
         <Canvas
             camera={{
                 fov: 45,
